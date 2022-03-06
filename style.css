@@ -1,0 +1,11 @@
+span {
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+}
+
+.block {
+    padding: 20px;
+}
